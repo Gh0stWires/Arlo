@@ -7,3 +7,6 @@
 [submodule "ros-i2cpwmboard"]
 	path = ros-i2cpwmboard
 	url = https://github.com/adityakamath/ros_i2cpwm_board.git
+[submodule "ros-i2cpwmboard/ros-i2cpwmboard"]
+	path = ros-i2cpwmboard/ros-i2cpwmboard
+	url = https://github.com/mentor-dyun/ros-i2cpwmboard
